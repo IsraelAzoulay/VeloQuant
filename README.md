@@ -1,5 +1,7 @@
-VeloQuant - Makes predictions about bike rental demand
+VeloQuant
 ==============================
+Makes predictions about bike rental demand
+
 Project Organization
 ------------
     ├── README.md          <- The top-level README for developers using this project.
